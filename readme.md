@@ -1,3 +1,13 @@
+## Support the Project ☕
+
+If this project has helped you, consider supporting its development! Any contribution is highly appreciated.
+
+* **Bitcoin (BTC):**  
+  `bc1qkuggdkxa4mydvlra0z66x7ry36tzzed23jj8zk`
+* **Ethereum (ETH) / EVM Networks:**  
+  `0xaEFab3A093De4Dfa6092DAca9Bf376b2e36cb797`
+
+
 # Klipper Plugin Manager
 
 A simple web tool for installing and managing small plugins for Klipper 3D printers.
